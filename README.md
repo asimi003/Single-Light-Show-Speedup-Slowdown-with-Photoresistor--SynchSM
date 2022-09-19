@@ -1,4 +1,5 @@
 # Single-Light-Show-Speedup-Slowdown-with-Photoresistor--SynchSM
+
 Embedded Systems & Arduino
 
 ## Video Demonstration
